@@ -1,0 +1,1 @@
+Getgenre file was use to connect to spotipy api. Was running into alot of problems with failed downloads so made a cacheing mechanism inside the application to save my downloads. I used the other files to convert my json from Cache to csv and merge with oringinal dataset. 
